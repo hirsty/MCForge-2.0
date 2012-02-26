@@ -76,23 +76,6 @@ namespace MCForge2_
         public const byte obsidian = (byte)49;
         public const byte Zero = 0xff;
 
-        //Custom blocks
-        public const byte door_orange_air = (byte)57;
-        public const byte door_yellow_air = (byte)58;
-        public const byte door_lightgreen_air = (byte)59;
-        public const byte door_aquagreen_air = (byte)60;
-        public const byte door_cyan_air = (byte)61;
-        public const byte door_lightblue_air = (byte)62;
-        public const byte door_purple_air = (byte)63;
-        public const byte door_lightpurple_air = (byte)64;
-        public const byte door_pink_air = (byte)65;
-        public const byte door_darkpink_air = (byte)66;
-        public const byte door_darkgrey_air = (byte)67;
-        public const byte door_lightgrey_air = (byte)68;
-        public const byte door_white_air = (byte)69;
-
-        public const byte flagbase = (byte)70;
-
         //Seasons
         public const byte fallsnow = (byte)71;
         public const byte snow = (byte)72;

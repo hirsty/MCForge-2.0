@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Block.cs" />
     <Compile Include="Database\DatabaseHelper.cs" />
     <Compile Include="Database\Databasing.cs" />
     <Compile Include="Database\MySQLHelper.cs" />
